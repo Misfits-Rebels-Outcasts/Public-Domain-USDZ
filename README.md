@@ -18,7 +18,7 @@ The [Public Domain USDZ](https://photorealityar.com/publicdomainusdz.html) props
 
 ## Fruits USDZ
 
-<img src=https://photorealityar.com/images/whereismyapple.JPG width="70% height="70%>
+<img src=https://photorealityar.com/images/whereismyapple.JPG width="70%" height="70%">
 
 The apple on top of our cat is an Augmented Reality USDZ. Tap on the image below to view the raw public domain USDZ files on your iOS devices.
 
