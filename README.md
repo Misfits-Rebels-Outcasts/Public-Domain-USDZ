@@ -18,113 +18,113 @@ These [Public Domain USDZ](https://photorealityar.com/publicdomainusdz.html) pro
 
 ## Fruits USDZ
 
-       <div>
-       <a rel="ar" href="usdz/apple_1.usdz">
-          <img src="usdz/apple_1.jpg">
-       </a>
-       </div>
+<div>
+<a rel="ar" href="usdz/apple_1.usdz">
+       <img src="usdz/apple_1.jpg">
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/apple_2.usdz">
-          <img src="usdz/apple_2.jpg">
-       </a>
-       </div>
+<div>
+<a rel="ar" href="usdz/apple_2.usdz">
+       <img src="usdz/apple_2.jpg">
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/avocado_1.usdz">
+<div>
+<a rel="ar" href="usdz/avocado_1.usdz">
           <img src="usdz/avocado_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/avocado_black_1.usdz">
+<div>
+<a rel="ar" href="usdz/avocado_black_1.usdz">
           <img src="usdz/avocado_black_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/avocado_flat_1.usdz">
+<div>
+<a rel="ar" href="usdz/avocado_flat_1.usdz">
           <img src="usdz/avocado_flat_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/avocado_flat_2.usdz">
+<div>
+<a rel="ar" href="usdz/avocado_flat_2.usdz">
           <img src="usdz/avocado_flat_2.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/broccoli_1.usdz">
+<div>
+<a rel="ar" href="usdz/broccoli_1.usdz">
           <img src="usdz/broccoli_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/cauliflower_1.usdz">
+<div>
+<a rel="ar" href="usdz/cauliflower_1.usdz">
           <img src="usdz/cauliflower_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/onion_1.usdz">
+<div>
+<a rel="ar" href="usdz/onion_1.usdz">
           <img src="usdz/onion_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/orange_1.usdz">
+<div>
+<a rel="ar" href="usdz/orange_1.usdz">
           <img src="usdz/orange_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/papaya_1.usdz">
+ <div>
+<a rel="ar" href="usdz/papaya_1.usdz">
           <img src="usdz/papaya_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/papaya_2.usdz">
+<div>
+<a rel="ar" href="usdz/papaya_2.usdz">
           <img src="usdz/papaya_2.jpg">
-       </a>
-       </div>
+ </a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/papaya_flat_1.usdz">
+<div>
+<a rel="ar" href="usdz/papaya_flat_1.usdz">
           <img src="usdz/papaya_flat_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/papaya_flat_2.usdz">
+<div>
+<a rel="ar" href="usdz/papaya_flat_2.usdz">
           <img src="usdz/papaya_flat_2.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/pear_1.usdz">
+<div>
+<a rel="ar" href="usdz/pear_1.usdz">
           <img src="usdz/pear_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/pear_2.usdz">
+<div>
+<a rel="ar" href="usdz/pear_2.usdz">
           <img src="usdz/pear_2.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/sweetpotato_1.usdz">
+<div>
+<a rel="ar" href="usdz/sweetpotato_1.usdz">
           <img src="usdz/sweetpotato_1.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
-       <div>
-       <a rel="ar" href="usdz/sweetpotato_2.usdz">
+<div>
+<a rel="ar" href="usdz/sweetpotato_2.usdz">
           <img src="usdz/sweetpotato_2.jpg">
-       </a>
-       </div>
+</a>
+</div>
 
 
 
