@@ -14,7 +14,7 @@ Photogrammetry captures images and stitches them together to create high-fidelit
 
 ## License - Public Domain
 
-The [Public Domain USDZ](https://photorealityar.com/publicdomainusdz.html) props in this repo are scanned and released by [Nodef Open Pipeline](https://github.com/Misfits-Rebels-Outcasts/Nodef) for use in the creation of the [Reality ^Cat Cut app](https://apps.apple.com/us/app/reality-cat-cut-video-editor/id6470134946). A fork or like is appreciated but not strictly required if you like to use the USDZ files. All files are released by Nodef in the Public Domain.
+The [Public Domain USDZ](https://photorealityar.com/publicdomainusdz.html) props in this repo are scanned and released by [Nodef Open Pipeline](https://github.com/Misfits-Rebels-Outcasts/Nodef) for use in the creation of the [Reality ^Cat Cut app](https://apps.apple.com/us/app/reality-cat-cut-video-editor/id6470134946). A fork or star is appreciated but not strictly required if you like to use the USDZ files. All files are released by Nodef in the Public Domain.
 
 ## Fruits USDZ
 
